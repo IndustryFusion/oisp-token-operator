@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: oisp
+Version: 0.2.1
+Summary: An object oriented API for Open IoT Service Platform
+Home-page: https://github.com/Open-IoT-Service-Platform/oisp-sdk-python
+Author: Ali Rasim Kocal
+Author-email: ali.r.kocal@intel.com
+License: BSD-3-Clause
+Project-URL: Source, https://github.com/Open-IoT-Service-Platform/oisp-sdk-python
+Project-URL: OISP Main, https://github.com/Open-IoT-Service-Platform/oisp-sdk-python
+Keywords: iot oisp development platform sdk rest
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: requests
+Requires-Dist: pygments
+Requires-Dist: termcolor
+Requires-Dist: cbor
+
+UNKNOWN
+
+
