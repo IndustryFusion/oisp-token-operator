@@ -1,4 +1,4 @@
 env
 resources
-.dockerignore#
+.dockerignore
 __pycache__
